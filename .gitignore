@@ -3,3 +3,5 @@ testing-project
 .mypy_cache
 poetry.lock
 dev-link/
+__pycache__/
+.pytest_cache/
